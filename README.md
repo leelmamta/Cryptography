@@ -21,6 +21,10 @@ In Symmetric-key cryptography , the same key is used by the sender (for encrypti
 
 ![Symmetric_key_cryptography](https://user-images.githubusercontent.com/69026100/127867820-73cc5c9b-bffd-4aea-bafe-dd1519953793.png)
 
+In symmetric-key cryptography , the algorithm used for decryption is the inverse of algorithm used for encryption. This means that  if the encryption algorithm uses a combination of addition and multiplication , the decryption algorithm uses a combination of division and subtraction. 
+```
+Symmetric-key cryptography are efficient : it takes less time to encrypt a message using symmetric key algorithm than it takes to encrypt using the public-key algorithm 
+```
 
 
 
