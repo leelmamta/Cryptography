@@ -19,6 +19,7 @@ In cryptography ,the encryption /decryption algorithms are public; the keys are 
 ## Symmetric-key Cryptography 
 In Symmetric-key cryptography , the same key is used by the sender (for encryption) and the receiver (for decryption) . The key is shared. 
 
+![Symmetric_key_cryptography](https://user-images.githubusercontent.com/69026100/127867820-73cc5c9b-bffd-4aea-bafe-dd1519953793.png)
 
 
 
