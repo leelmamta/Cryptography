@@ -26,12 +26,6 @@ In symmetric-key cryptography , the algorithm used for decryption is the inverse
 Symmetric-key cryptography are efficient : it takes less time to encrypt a message using symmetric key algorithm than it takes to encrypt using the public-key algorithm 
 `
 
-### Types Symmetric Key Cryptography 
- - Ceaser Cipher 
- - multiplicative cipher 
- - affine cipher 
- - auto key cipher 
- - play fair cipher 
 
 
 
