@@ -27,6 +27,17 @@ Symmetric-key cryptography are efficient : it takes less time to encrypt a messa
 `
 
 
+## Substitution Cipher -> Monoalphabatic cipher 
+Placing letter with another letter based on some key 
+Cipher text  = (P+key)%26 -> P = character by character adding of the key into the plain text will give us cipher text 
+## Vigener Polyalphabatic Cipher 
+In this we use alphabates table matrix Where intital row, column start with A and next B , C and so on. Here We use Key -> Word , if length of the key word is small then key itself is repeated. 
+Encryption -> (P[i]+k[i])%26 . 
+Decryption -> (p[i]-k[i]+26)%26
+
+In this cipher there is some degree rotation of the Cipher 
+
+
 
 
 
