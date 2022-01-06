@@ -38,7 +38,10 @@ Decryption -> (p[i]-k[i]+26)%26
 In this cipher there is some degree rotation of the Cipher 
 
 
-
+## One Time Pad -> 
+In this we use a random key. AND rest is similar to the Substitution Cipher, i.e., C[i] = (P[i]+k[i])%26
+If used properly, this is the strongest possible encryption scheme. 
+Since the content of the One-Time Pad is completely random, it becomes mathematically impossible to perform any sort of cryptanalysis on it.This method has been used in history by the military, but it isn't practical because of the difficulty of distributing the one-time pads.
 
 
 
